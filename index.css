@@ -1,0 +1,51 @@
+header{
+    background-color: yellow;    
+    color: green;
+    border-style: hidden;
+    
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    background-color: red;
+    color: white;    
+}
+
+#p1 {
+    background-color: white;
+    border-color: green;
+    width: 323px;            
+}
+
+#p3 {
+    background-color: white;
+    border-color: green;
+    width: 600px;  
+    height: 600px;            
+}
+
+
+
+#rojito1{
+    color: red;
+}
+
+#rojito2{
+    color: red;
+}
+
+#rojito3{
+    color: red;
+}
+
+
+#azul1{
+    color: blue;
+}
+
+#azul3{
+    color: blue;
+}
