@@ -2,6 +2,7 @@ function girar(){
     document.getElementById("center1").textContent=""
     document.getElementById("img1").textContent=""
     document.getElementById("img2").textContent=""    
+    document.getElementById("p3").textContent=""    
 
     let dado1 = Math.floor(Math.random()*6+1)
     let dado2 = Math.floor(Math.random()*6+1)
